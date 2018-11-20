@@ -222,7 +222,10 @@ Hamburger Menu
 .site-navigation ul li a:hover,
 .site-navigation ul li.current-menu-item a {
     border-bottom: 3px solid #1900ff;
-    color: #1900ff;
+    background-color: black;
+    color: white;
+    margin: 5px 0px 5px 0px;
+
 }
 
 /*--------------------------------------------------------------
