@@ -1356,6 +1356,7 @@ padding: 96px 0;
 # Footer
 --------------------------------------------------------------*/
 .footer-bar{
+    margin-top: 5px;
     background-color: #111;
     color: #ffffff;
     box-align: center;
